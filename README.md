@@ -1,1 +1,3 @@
-# check-HW-due_bash-script
+# check-HW-due-bash-script
+## Objective
+Use bash script to track the assignments due date on UW canvas system
